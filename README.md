@@ -1,0 +1,2 @@
+# Bhaskara
+ Resolvendo Bhaskara
